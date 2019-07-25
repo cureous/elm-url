@@ -1,3 +1,5 @@
+# For 0.19 upgrade, this is an 0.18 compatable library with 0.19 elm/url
+
 # Work with URLs
 
 This package helps you (1) build new URLs and (2) parse existing URLs into nice Elm data structures.
