@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "summary": "0.19 url parser for 0.18",
     "repository": "https://github.com/proda-ai/elm-url.git",
     "license": "BSD3",
@@ -12,6 +12,7 @@
         "Url.Parser",
         "Url.Parser.Query"
     ],
+    "native-modules": true,
     "dependencies": {
         "elm-lang/core": "5.1.1 <= v < 6.0.0"
     },
